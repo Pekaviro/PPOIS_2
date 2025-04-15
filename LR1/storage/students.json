@@ -94,5 +94,36 @@
         },
         "materials": null,
         "unexplored_topics": null
+    },
+    "1": {
+        "id": "1",
+        "last_name": "Йцу",
+        "first_name": "Фыв",
+        "exam_result": {
+            "exam": {
+                "subject": "Физика",
+                "questions": [
+                    [
+                        "Арбуз",
+                        "Какого цвета арбуз?",
+                        "Полосатого"
+                    ]
+                ]
+            },
+            "answers": [
+                "йцу"
+            ]
+        },
+        "materials": [
+            {
+                "subject": null,
+                "topic": "ййй",
+                "title": "ццц",
+                "author": "ууу"
+            }
+        ],
+        "unexplored_topics": [
+            "Арбуз"
+        ]
     }
 }

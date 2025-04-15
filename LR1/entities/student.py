@@ -27,22 +27,30 @@ class Student:
             self.id = input("Введите номер студенческого билета: ").strip()
             if not self.id:
                 raise ValueError("Номер студенческого билета не может быть пустым.")
+            if not self.id.isdigit():
+                raise ValueError("Номер студенческого билета может содержать только цифры!")
 
             # Проверка на дублирование студента
             if self.id_exist(self.id):
                 print(f"Студент с номером '{self.id}' уже существует.")
                 return
 
-            self.last_name = input("Введите фамилию студента: ").strip()
+            self.last_name = input("Введите фамилию студента: ").strip().title()
             if not self.last_name:
                 raise ValueError("Фамилия не может быть пустой.")
+            if not self.last_name.isalpha():
+                raise ValueError("Фамилия может содержать только буквы!")
 
-            self.first_name = input("Введите имя студента: ").strip()
+            self.first_name = input("Введите имя студента: ").strip().title()
             if not self.first_name:
                 raise ValueError("Имя не может быть пустым.")
+            if not self.first_name.isalpha():
+                raise ValueError("Имя может содержать только буквы!")
 
             
             self.exam_result = self.set_exam_result()
+            if not self.exam_result:
+                return
             self.materials = []
             self.unexplored_topics = set()
 
@@ -57,7 +65,7 @@ class Student:
         try:
             Exam.display_exams()
 
-            subject = input("Введите название экзамена: ").strip()
+            subject = input("Введите название экзамена: ").strip().title()
             if not subject:
                 raise ValueError("Название экзамена не может быть пустым.")
 
@@ -157,6 +165,8 @@ class Student:
             for topic, question, correct_answer in questions_to_ask:
                 print(f"Вопрос: {question}")
                 answer = input(f"\nВаш ответ: ").strip()
+                if not answer:
+                    raise ValueError("Ответ не может быть пустым.")
                 correct_answer = correct_answer.strip()  # Удаление лишних пробелов
                 if answer == correct_answer:
                     print("Правильно!")

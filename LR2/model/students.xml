@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Students>
+  <Student>
+    <FullName>Лермонтов Михаил Юрьевич</FullName>
+    <Course>4</Course>
+    <Group>121701</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Иванов Иван Иванович</FullName>
+    <Course>2</Course>
+    <Group>320402</Group>
+    <TotalWorks>10</TotalWorks>
+    <CompletedWorks>7</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Петров Пётр Петрович</FullName>
+    <Course>3</Course>
+    <Group>250505</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Пушкин Александр Сергеевич</FullName>
+    <Course>4</Course>
+    <Group>121701</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Бродский Иосиф Александрович</FullName>
+    <Course>1</Course>
+    <Group>447407</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Ахматова Анна Андреевна</FullName>
+    <Course>1</Course>
+    <Group>450501</Group>
+    <TotalWorks>4</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Hbbbdfh Fnvj Fknj</FullName>
+    <Course>3</Course>
+    <Group>143524</Group>
+    <TotalWorks>3</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>dfnjbfh</ProgrammingLanguage>
+  </Student>
+</Students>

@@ -19,13 +19,11 @@ class EducationalMaterial:
         try:
             self.subject = input("Введите название предмета: ").strip()
             if not self.subject:
-                print("Название предмета не может быть пустым.")
-                return
+                raise ValueError("Ответ не может быть пустым.")
 
             self.topic = input("Введите тему: ").strip()
             if not self.topic:
-                print("Тема не может быть пустой.")
-                return
+                raise ValueError("Тема не может быть пустой.")
 
             # Проверка на дублирование материала
             materials = self.load_all()
@@ -35,13 +33,11 @@ class EducationalMaterial:
 
             self.title = input("Введите название материала: ").strip()
             if not self.title:
-                print("Название материала не может быть пустым.")
-                return
+                raise ValueError("Название не может быть пустым.")
 
             self.author = input("Введите автора материала: ").strip()
             if not self.author:
-                print("Автор не может быть пустым.")
-                return
+                raise ValueError("Автор не может быть пустым.")
 
             print("\nДанные учебного материала успешно сохранены!")
             self.save()

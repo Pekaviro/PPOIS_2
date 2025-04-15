@@ -14,10 +14,9 @@ class Exam:
 
     def set_info(self) -> None:
         try:
-            self.subject = input("Введите название предмета: ").strip()
+            self.subject = input("Введите название предмета: ").strip().title()
             if not self.subject:
-                print("Название предмета не может быть пустым.")
-                return
+                raise ValueError("Название предмета не может быть пустым.")
 
             # Проверка на дублирование экзамена
             exams = self.load_all()
@@ -33,18 +32,15 @@ class Exam:
                 print("\nВведите данные для нового вопроса (тема, вопрос, ответ).")
                 topic = input("Введите тему: ").strip()
                 if not topic:
-                    print("Тема не может быть пустой.")
-                    continue
+                    raise ValueError("Тема не может быть пустой.")
 
                 question = input("Введите вопрос: ").strip()
                 if not question:
-                    print("Вопрос не может быть пустым.")
-                    continue
+                    raise ValueError("Вопрос не может быть пустым.")
 
                 answer = input("Введите ответ: ").strip()
                 if not answer:
-                    print("Ответ не может быть пустым.")
-                    continue
+                    raise ValueError("Ответ не может быть пустым.")
 
                 # Добавляем вопрос в список
                 self.questions.append((topic, question, answer))

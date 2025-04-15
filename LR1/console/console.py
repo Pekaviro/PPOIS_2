@@ -57,8 +57,7 @@ class Console:
                 self.student.display_unexplored_topics()
                 topic = input("Введите тему для консультации: ")
                 if not topic:
-                    print("Тема не может быть пустой.")
-                    return
+                    raise ValueError("Фамилия не может быть пустой.")
                 consultation = AdditionalClasses(self.student, topic)
                 consultation.conduct_consultation()
             elif choice == "3":

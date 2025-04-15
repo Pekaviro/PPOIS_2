@@ -1,0 +1,411 @@
+<?xml version="1.0" ?>
+<Students>
+  <Student>
+    <FullName>Смирнов Алексей Владимирович</FullName>
+    <Course>2</Course>
+    <Group>150301</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Кузнецова Елена Дмитриевна</FullName>
+    <Course>3</Course>
+    <Group>150301</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Попов Игорь Сергеевич</FullName>
+    <Course>1</Course>
+    <Group>210502</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Васильева Анна Павловна</FullName>
+    <Course>4</Course>
+    <Group>210502</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Новиков Денис Олегович</FullName>
+    <Course>2</Course>
+    <Group>330703</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Морозова Ольга Игоревна</FullName>
+    <Course>3</Course>
+    <Group>330703</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Фёдоров Артём Викторович</FullName>
+    <Course>1</Course>
+    <Group>440904</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Антонова Мария Александровна</FullName>
+    <Course>4</Course>
+    <Group>440904</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Лебедев Павел Андреевич</FullName>
+    <Course>2</Course>
+    <Group>560105</Group>
+    <TotalWorks>9</TotalWorks>
+    <CompletedWorks>7</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Соколова Виктория Романовна</FullName>
+    <Course>3</Course>
+    <Group>560105</Group>
+    <TotalWorks>9</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Козлов Андрей Николаевич</FullName>
+    <Course>1</Course>
+    <Group>670206</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Орлова Дарья Сергеевна</FullName>
+    <Course>4</Course>
+    <Group>670206</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Волков Евгений Петрович</FullName>
+    <Course>2</Course>
+    <Group>780307</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Алексеева Ксения Владимировна</FullName>
+    <Course>3</Course>
+    <Group>780307</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Павлов Максим Игоревич</FullName>
+    <Course>1</Course>
+    <Group>890408</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Семёнова Анастасия Олеговна</FullName>
+    <Course>4</Course>
+    <Group>890408</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Голубев Дмитрий Анатольевич</FullName>
+    <Course>2</Course>
+    <Group>910509</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Кудрявцева Екатерина Витальевна</FullName>
+    <Course>3</Course>
+    <Group>910509</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Белов Артём Сергеевич</FullName>
+    <Course>1</Course>
+    <Group>120610</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Комарова Татьяна Дмитриевна</FullName>
+    <Course>4</Course>
+    <Group>120610</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Щербаков Иван Алексеевич</FullName>
+    <Course>2</Course>
+    <Group>230711</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Борисова Юлия Андреевна</FullName>
+    <Course>3</Course>
+    <Group>230711</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Макаров Сергей Владимирович</FullName>
+    <Course>1</Course>
+    <Group>340812</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Зайцева Ольга Игоревна</FullName>
+    <Course>4</Course>
+    <Group>340812</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>7</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Егоров Антон Павлович</FullName>
+    <Course>2</Course>
+    <Group>450913</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Медведева Наталья Сергеевна</FullName>
+    <Course>3</Course>
+    <Group>450913</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Калинин Александр Дмитриевич</FullName>
+    <Course>1</Course>
+    <Group>560114</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Герасимова Елена Викторовна</FullName>
+    <Course>4</Course>
+    <Group>560114</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Тихонов Роман Олегович</FullName>
+    <Course>2</Course>
+    <Group>670215</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Данилова Алина Алексеевна</FullName>
+    <Course>3</Course>
+    <Group>670215</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Степанов Владислав Игоревич</FullName>
+    <Course>1</Course>
+    <Group>780316</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Фролова Валерия Денисовна</FullName>
+    <Course>4</Course>
+    <Group>780316</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Савельев Алексей Андреевич</FullName>
+    <Course>2</Course>
+    <Group>890417</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Романова Ангелина Сергеевна</FullName>
+    <Course>3</Course>
+    <Group>890417</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Григорьев Денис Владимирович</FullName>
+    <Course>1</Course>
+    <Group>910518</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Осипова Кристина Павловна</FullName>
+    <Course>4</Course>
+    <Group>910518</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Тарасов Артур Романович</FullName>
+    <Course>2</Course>
+    <Group>120619</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Кузьмина Вероника Андреевна</FullName>
+    <Course>3</Course>
+    <Group>120619</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Ильин Евгений Дмитриевич</FullName>
+    <Course>1</Course>
+    <Group>230720</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Максимова Дарья Викторовна</FullName>
+    <Course>4</Course>
+    <Group>230720</Group>
+    <TotalWorks>5</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Филиппов Кирилл Олегович</FullName>
+    <Course>2</Course>
+    <Group>340821</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Горбунова Анастасия Игоревна</FullName>
+    <Course>3</Course>
+    <Group>340821</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Константинов Артём Сергеевич</FullName>
+    <Course>1</Course>
+    <Group>450922</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Ларина Екатерина Денисовна</FullName>
+    <Course>4</Course>
+    <Group>450922</Group>
+    <TotalWorks>8</TotalWorks>
+    <CompletedWorks>7</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Шишкин Павел Александрович</FullName>
+    <Course>2</Course>
+    <Group>560123</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Сорокина Виктория Алексеевна</FullName>
+    <Course>3</Course>
+    <Group>560123</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Дмитриев Илья Владимирович</FullName>
+    <Course>1</Course>
+    <Group>670224</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Терентьева Марина Олеговна</FullName>
+    <Course>4</Course>
+    <Group>670224</Group>
+    <TotalWorks>7</TotalWorks>
+    <CompletedWorks>6</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+    <Student>
+    <FullName>Лазарев Михаил Викторович</FullName>
+    <Course>3</Course>
+    <Group>131313</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>4</CompletedWorks>
+    <ProgrammingLanguage>Python</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Медведева Анастасия Сергеевна</FullName>
+    <Course>1</Course>
+    <Group>131313</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>5</CompletedWorks>
+    <ProgrammingLanguage>Java</ProgrammingLanguage>
+  </Student>
+  <Student>
+    <FullName>Носов Артём Дмитриевич</FullName>
+    <Course>4</Course>
+    <Group>131313</Group>
+    <TotalWorks>6</TotalWorks>
+    <CompletedWorks>3</CompletedWorks>
+    <ProgrammingLanguage>C++</ProgrammingLanguage>
+  </Student>
+</Students>
